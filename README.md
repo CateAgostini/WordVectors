@@ -5,4 +5,4 @@ Embedding models are a type of text analysis used to explore larger thematic que
 
 https://wwp.northeastern.edu/lab/wwvt 
 
-Caterina Agostini led and taught this workshop on 29 April 2020.
+Caterina Agostini led and taught this workshop at the Rutgers Digital Humanities Initiative and Lab, on 29 April 2020.
